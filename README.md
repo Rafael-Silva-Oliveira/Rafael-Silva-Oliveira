@@ -1,4 +1,4 @@
-# Hi, I'm Rafael Silva Oliveira
+# Hello!
 
 **Clinical Bioinformatician | Ph.D. Candidate in Medical Technology (NTNU)**
 
