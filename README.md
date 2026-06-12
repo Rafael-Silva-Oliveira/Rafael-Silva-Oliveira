@@ -16,7 +16,7 @@ I'm currently pursuing a **Ph.D. in Medical Technology at NTNU**, where I focus 
 
 ## Stats
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafael-Silva-Oliveira&show_icons=true&theme=tokyonight&rank_icon=github)
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafael-Silva-Oliveira&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true)
 
 ## Connect
 
