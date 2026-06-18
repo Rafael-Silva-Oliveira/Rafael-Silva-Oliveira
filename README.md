@@ -23,5 +23,3 @@ I'm currently pursuing a **Ph.D. in Medical Technology at NTNU**, where I focus 
 ## Stats
 
 ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafael-Silva-Oliveira&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true)
-
-![Profile views](https://komarev.com/ghpvc/?username=Rafael-Silva-Oliveira&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)
