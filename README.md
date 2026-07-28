@@ -22,4 +22,6 @@ I'm currently pursuing a **Ph.D. in Medical Technology at NTNU**, where I focus 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-slo/)
 [![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://rafael-silva-oliveira.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafael-Silva-Oliveira)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&v=1)](https://github.com/Rafael-Silva-Oliveira)
+
+
