@@ -14,7 +14,7 @@ I'm currently pursuing a **Ph.D. in Medical Technology at NTNU**, where I focus 
 - **Translational research** — applying Clinical Bioinformatics, Biomedical Data Science, and Medical Statistics in Transcriptomics (T0–T3)
 - **Software as Medical Device (SaMD)** — building Clinical Decision Support Systems using ML, LLMs, Computer Vision, and (radio)transcriptomics / Spatial Transcriptomics applied to Oncology
 
-In my free time I also like to develop open-source tools, such as NZBridge that connects Zotero to Google NotebookLM for a more streamlined research workflow (see more below). 
+In my free time I also like to develop open-source tools, such as NZBridge that connects Zotero to Google NotebookLM for a more streamlined research workflow (see more below). I am also a contributor to open-source projects such as [Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code) and [Unsloth Studio](https://github.com/unslothai/unsloth).
 
 ## Connect
 
